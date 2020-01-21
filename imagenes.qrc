@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>newton.png</file>
+        <file>einsteinicon.png</file>
+        <file>blackButton.png</file>
+        <file>backcolor.qrc</file>
+        <file>background-images.qrc</file>
+    </qresource>
+</RCC>
